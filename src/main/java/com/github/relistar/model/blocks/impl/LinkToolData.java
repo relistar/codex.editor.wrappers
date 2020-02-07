@@ -1,7 +1,7 @@
-package model.blocks.impl;
+package com.github.relistar.model.blocks.impl;
 
-import model.blocks.LinkToolMeta;
-import model.blocks.BlockData;
+import com.github.relistar.model.blocks.LinkToolMeta;
+import com.github.relistar.model.blocks.BlockData;
 
 public class LinkToolData extends BlockData {
     private String link;

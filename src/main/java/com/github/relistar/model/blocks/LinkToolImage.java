@@ -1,4 +1,4 @@
-package model.blocks;
+package com.github.relistar.model.blocks;
 
 public class LinkToolImage {
     private String url;

@@ -1,6 +1,6 @@
-package model.blocks.impl;
+package com.github.relistar.model.blocks.impl;
 
-import model.blocks.BlockData;
+import com.github.relistar.model.blocks.BlockData;
 
 public class EmbedData extends BlockData {
     private String service;

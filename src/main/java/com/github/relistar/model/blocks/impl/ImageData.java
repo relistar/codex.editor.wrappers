@@ -1,7 +1,7 @@
-package model.blocks.impl;
+package com.github.relistar.model.blocks.impl;
 
-import model.blocks.BlockData;
-import model.blocks.FileData;
+import com.github.relistar.model.blocks.BlockData;
+import com.github.relistar.model.blocks.FileData;
 
 public class ImageData extends BlockData {
     private FileData file;

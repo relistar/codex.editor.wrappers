@@ -1,9 +1,9 @@
-package model;
+package com.github.relistar.model;
 
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
-import model.blocks.BlockData;
-import model.blocks.impl.*;
+import com.github.relistar.model.blocks.BlockData;
+import com.github.relistar.model.blocks.impl.*;
 
 public class Block {
 

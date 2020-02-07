@@ -1,4 +1,4 @@
-package model;
+package com.github.relistar.model;
 
 import java.util.List;
 
